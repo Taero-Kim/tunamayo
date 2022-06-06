@@ -16,13 +16,14 @@ const ToiletSummary = ({ toilet }: ToiletSummaryProps) => {
 
         <div className="flex font-normal leading-[26px] text-base items-center">
           <div className="mr-6 text-tnBlack">전화번호</div>
-          <div
+          <a
+            href={`tel:${toilet?.agencyNumber}`}
             className={
               toilet?.agencyNumber ? "text-tnDeepBlue" : "text-tnBlack"
             }
           >
             {toilet?.agencyNumber || "-"}
-          </div>
+          </a>
         </div>
       </div>
     </>

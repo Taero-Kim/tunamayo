@@ -8,6 +8,8 @@
 
 # production
 /build
+buildspec.yml
+.yml
 
 # misc
 .env
