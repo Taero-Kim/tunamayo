@@ -43,5 +43,5 @@ Enjoy Coding, Upgrade together.
 | [Taero-Kim](https://github.com/Taero-Kim) | [jonghwan](https://github.com/jonghwan-code) | [minug0226](https://github.com/minug0226) | [yedoll22](https://github.com/yedoll22) |
 | Full Stack | Full Stack | Full Stack | Full Stack |
 
-👉 [More Info about our project.](https://github.com/codestates/tunamayo/wiki)
+👉 [More Info about our project.](https://github.com/Taero-Kim/tunamayo/wiki)
 
